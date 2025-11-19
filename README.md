@@ -1,8 +1,7 @@
 [Day1_Python_Notes.txt](https://github.com/user-attachments/files/23625208/Day1_Python_Notes.txt)
-DAY 1 — PYTHON LEARNING NOTES (Your Progress Today)
+DAY 1 — PYTHON LEARNING NOTES (Progress Today)
 
-A complete summary of concepts you learned while building your CLI
-calculator
+A complete summary of concepts learned while building CLI calculator
 
 1.  While Loops & Program Flow
 
@@ -56,8 +55,6 @@ calculator
 -   Verified output by testing.
 -   Fixed indentation & flow issues.
 
-SUMMARY: What You Can Do Now - Write functions - Use loops effectively -
+SUMMARY: Write functions - Use loops effectively -
 Validate input - Prevent crashes - Handle exceptions - Build CLI apps -
 Track history - Debug - Organize code
-
-Excellent progress for a single day.
